@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Cs - Method practice\Cs - Method practice\bin\Debug\netcoreapp3.1\Cs - Method practice.exe
+C:\Users\User\source\repos\Cs - Method practice\Cs - Method practice\bin\Debug\netcoreapp3.1\Cs - Method practice.deps.json
+C:\Users\User\source\repos\Cs - Method practice\Cs - Method practice\bin\Debug\netcoreapp3.1\Cs - Method practice.runtimeconfig.json
+C:\Users\User\source\repos\Cs - Method practice\Cs - Method practice\bin\Debug\netcoreapp3.1\Cs - Method practice.runtimeconfig.dev.json
+C:\Users\User\source\repos\Cs - Method practice\Cs - Method practice\bin\Debug\netcoreapp3.1\Cs - Method practice.dll
+C:\Users\User\source\repos\Cs - Method practice\Cs - Method practice\bin\Debug\netcoreapp3.1\Cs - Method practice.pdb
+C:\Users\User\source\repos\Cs - Method practice\Cs - Method practice\obj\Debug\netcoreapp3.1\Cs - Method practice.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cs - Method practice\Cs - Method practice\obj\Debug\netcoreapp3.1\Cs - Method practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cs - Method practice\Cs - Method practice\obj\Debug\netcoreapp3.1\Cs - Method practice.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cs - Method practice\Cs - Method practice\obj\Debug\netcoreapp3.1\Cs - Method practice.AssemblyInfo.cs
+C:\Users\User\source\repos\Cs - Method practice\Cs - Method practice\obj\Debug\netcoreapp3.1\Cs - Method practice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cs - Method practice\Cs - Method practice\obj\Debug\netcoreapp3.1\Cs - Method practice.dll
+C:\Users\User\source\repos\Cs - Method practice\Cs - Method practice\obj\Debug\netcoreapp3.1\Cs - Method practice.pdb
+C:\Users\User\source\repos\Cs - Method practice\Cs - Method practice\obj\Debug\netcoreapp3.1\Cs - Method practice.genruntimeconfig.cache
